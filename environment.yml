@@ -1,8 +1,0 @@
-name: mypy3
-channels:
-  - defaults
-dependencies:
-  - python=3.11
-  - pandas
-  - jupyter
-prefix: C:\ProgramData\anaconda3\envs\mypy3
